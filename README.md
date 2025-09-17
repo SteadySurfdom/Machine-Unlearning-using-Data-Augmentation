@@ -41,6 +41,16 @@ Click to view the full PDF with all metrics.
 
 ---
 
+## 📊 Results Summary
+
+The following table highlights the **best and worst augmentations** for each unlearning method across datasets, evaluated on **Membership Inference Attack (MIA)**, **Average Gap (AG)**, and **Unlearning Accuracy (UA)**.
+
+- 📄 [View Summary Table (PDF)](summary.pdf)
+
+![Summary Table](assets/summary.png)
+
+---
+
 ## 🔍 Why This Repo?
 
 Machine unlearning is the process of selectively removing the influence of specific data points (or subsets) from a trained model, **without retraining from scratch**.
