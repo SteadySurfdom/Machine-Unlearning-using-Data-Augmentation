@@ -19,7 +19,7 @@ The metrics include average accuracy, forgetting gap, membership inference attac
 Results on the **ESC-10 dataset** (environmental sound classification).  
 Click to view the full PDF with all metrics.
 
-[![ESC-10 Results](assets/esc10.png)](esc10.pdf)
+[![ESC-10 Results](assets/esc10.png?raw=true)](esc10.pdf)
 
 ---
 
@@ -28,7 +28,7 @@ Click to view the full PDF with all metrics.
 Results on the **Google SpeechCommands dataset** (keyword spotting).  
 Click to view the full PDF with all metrics.
 
-[![SpeechCommands Results](assets/speechcommands.png)](speechcommands.pdf)
+[![SpeechCommands Results](assets/speechcommands.png?raw=true)](speechcommands.pdf)
 
 ---
 
@@ -37,7 +37,7 @@ Click to view the full PDF with all metrics.
 Results on the **UrbanSound8K dataset** (urban audio classification).  
 Click to view the full PDF with all metrics.
 
-[![UrbanSound8K Results](assets/urbansound8k.png)](urbansound8k.pdf)
+[![UrbanSound8K Results](assets/urbansound8k.png?raw=true)](urbansound8k.pdf)
 
 ---
 
