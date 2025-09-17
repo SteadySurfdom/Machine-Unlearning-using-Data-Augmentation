@@ -45,9 +45,7 @@ Click to view the full PDF with all metrics.
 
 The following table highlights the **best and worst augmentations** for each unlearning method across datasets, evaluated on **Membership Inference Attack (MIA)**, **Average Gap (AGP)**, and **Unlearning Accuracy (UNA)**.
 
-- 📄 [View Summary Table (PDF)](summary.pdf)
-
-![Summary Table](assets/summary.png)
+[![Summary Results](assets/summary.png?raw=true)](summary.pdf)
 
 ---
 
