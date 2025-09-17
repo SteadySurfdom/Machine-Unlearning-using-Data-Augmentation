@@ -1,13 +1,55 @@
-# Tables
+# Machine Unlearning with Data Augmentation
 
-### Table 1
+This repository contains **extended results tables** from the paper:  
+**_Audio Augmentation Meets Audio Unlearning: Help or Hinder?_**
 
-[![Table 1](assets/esc10.png)](esc10.pdf)
+Due to ICASSP page constraints, the full experimental results (large tables with detailed metrics) could not be included in the main paper. This repo serves as a companion resource where the complete tables are made available in a clean, citable format.
 
-### Table 2
+---
 
-[![Table 2](assets/speechcommands.png)](speechcommands.pdf)
+## 📊 Tables
 
-### Table 3
+Each table reports detailed evaluation metrics for machine unlearning experiments across different **audio classification datasets**.  
+The metrics include average accuracy, forgetting gap, membership inference attack (MIA) resistance, and more.
 
-[![Table 3](assets/urbandsound8k.png)](urbandsound8k.pdf)
+---
+
+### 🎵 Table 1: ESC-10
+
+Results on the **ESC-10 dataset** (environmental sound classification).  
+Click to view the full PDF with all metrics.
+
+[![ESC-10 Results](assets/esc10.png)](esc10.pdf)
+
+---
+
+### 🗣️ Table 2: SpeechCommands
+
+Results on the **Google SpeechCommands dataset** (keyword spotting).  
+Click to view the full PDF with all metrics.
+
+[![SpeechCommands Results](assets/speechcommands.png)](speechcommands.pdf)
+
+---
+
+### 🌆 Table 3: UrbanSound8K
+
+Results on the **UrbanSound8K dataset** (urban audio classification).  
+Click to view the full PDF with all metrics.
+
+[![UrbanSound8K Results](assets/urbansound8k.png)](urbansound8k.pdf)
+
+---
+
+## 🔍 Why This Repo?
+
+Machine unlearning is the process of selectively removing the influence of specific data points (or subsets) from a trained model, **without retraining from scratch**.
+
+In this project, we study how **audio data augmentations**—which are common in training pipelines—interact with unlearning algorithms.
+
+- Do augmentations **help models forget faster**?
+- Or do they **leave residual traces**, making forgetting harder?
+
+This repo hosts the **supplementary tables** that provide detailed insights into these questions.
+
+---
