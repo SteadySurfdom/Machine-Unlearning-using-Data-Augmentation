@@ -40,3 +40,22 @@ Click to view the full PDF with all metrics.
 [![UrbanSound8K Results](assets/urbansound8k.png)](urbansound8k.pdf)
 
 ---
+
+## 🔍 Why This Repo?
+
+Machine unlearning is the process of selectively removing the influence of specific data points (or subsets) from a trained model, **without retraining from scratch**.
+
+In this project, we study how **audio data augmentations**—which are common in training pipelines—interact with unlearning algorithms.
+
+- Do augmentations **help models forget faster**?
+- Or do they **leave residual traces**, making forgetting harder?
+
+This repo hosts the **supplementary tables** that provide detailed insights into these questions.
+
+---
+
+## 📦 What’s Next?
+
+The full experimental **codebase** (training, unlearning routines, and augmentation setups) will be made available here in due time. Stay tuned.
+
+---
