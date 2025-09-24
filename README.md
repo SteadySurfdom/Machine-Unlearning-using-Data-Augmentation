@@ -1,5 +1,12 @@
 # Machine Unlearning with Data Augmentation
 
+## 📄 Paper  
+**Audio Augmentation Meets Audio Unlearning: Help or Hinder?**  
+*Moulik Gupta, Achyut Mani Tripathi, 2025 (Under Review at ICASSP 2026)*  
+
+[![Paper](https://img.shields.io/badge/Paper-PDF-red)](Machine_Unlearning_Using_Data_Augmentation.pdf) [![Conference](https://img.shields.io/badge/ICASSP-2026-grey)]()
+
+
 This repository contains **extended results tables** from the paper:  
 **_Audio Augmentation Meets Audio Unlearning: Help or Hinder?_**
 
